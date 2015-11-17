@@ -13,5 +13,5 @@ Boston 1 - Washington 4 on November 05 2015 11:00-11:05am
 Boston 2 - Montreal 4 on November 07 2015 11:00-11:05am
 Boston 2 - Ny Islanders 1 on November 08 2015 11:00-11:05am
 Colorado 3 - Boston 2 on November 12 2015 11:00-11:05am
-Detroit 0 - Boston 3 on November 14 2015 11:00-11:05am
-San Jose 2 - Boston 4 on November 17 2015 11:00-11:05am
+Detroit 1 - Boston 3 on November 14 2015 11:00-11:05am
+
